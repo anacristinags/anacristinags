@@ -62,7 +62,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/anacristinags/anacristinags/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/bash.png?raw=true"/></a></code>
+<!-- <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/bash.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
@@ -70,12 +70,12 @@
 &nbsp; 
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/csharp.png?raw=true"/></a></code>
-&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/csharp.png?raw=true"/></a></code> 
+&nbsp; -->
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/javafx.png?raw=true"/></a></code>
-&nbsp; 
+<!-- &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/spring.png?raw=true"/></a></code>
@@ -94,8 +94,8 @@
 &nbsp; 
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/react.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/vbs.png?raw=true"/></a></code>
-&nbsp; 
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/vbs.png?raw=true"/></a></code> -->
+&nbsp;
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/mysql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/postgresql.png?raw=true"/></a></code>
