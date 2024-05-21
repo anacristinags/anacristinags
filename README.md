@@ -31,7 +31,22 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Ana Cristina</code>, tenho 20 anos e atualmente sou <code>aluna</code> do curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b> :wave:, sou a <code>Ana Cristina</code>, tenho 20 anos e atualmente sou <code>aluna</code> do curso de Ciência da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>. 
+<br /> 
+</div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1"></td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=anacristinags"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/anacristinags/anacristinags?logo=git"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/anacristinags?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/anacristinags?style=social"/>
+<a href="https://github.com/anacristinags/anacristinags/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
@@ -62,6 +77,20 @@
 
 <img height="20" alt="GIF" src="https://github.com/anacristinags/anacristinags/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/java.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/javafx.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/mysql.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/dbeaver.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/git.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/netbeans.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/intellij.png?raw=true"/></a></code>
+&nbsp;
 <!-- <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/bash.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/python.png?raw=true"/></a></code>
@@ -71,11 +100,7 @@
 <code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/csharp.png?raw=true"/></a></code> 
-&nbsp; -->
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/javafx.png?raw=true"/></a></code>
-<!-- &nbsp; 
 <code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/primefaces.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/spring.png?raw=true"/></a></code>
@@ -94,20 +119,16 @@
 &nbsp; 
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/react.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/vbs.png?raw=true"/></a></code> -->
-&nbsp;
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/mysql.png?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/vbs.png?raw=true"/></a></code> 
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/postgresql.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/mongodb.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/dbeaver.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/nodejs.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/nextjs.png?raw=true"/></a></code>
-&nbsp;
+&nbsp; 
 <code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/jest.png?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/prometheus.png?raw=true"/></a></code>
@@ -137,8 +158,6 @@
 <code><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/s3.svg?raw=true"/></a></code>
 &nbsp;
 <code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/sqs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/git.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/gitlab.png?raw=true"/></a></code>
 &nbsp; 
@@ -146,24 +165,20 @@
 &nbsp; 
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/netbeans.png?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/intellij.png?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/xcode.png?raw=true"/></a></code>
-</div>
+</div> -->
 
 -----
 
 <img height="20" alt="GIF" src="https://github.com/anacristinags/anacristinags/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
+<img alt="GitHub Commits" width="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anacristinags&theme=github_dark"/>
+<img alt="GitHub Stats" width="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anacristinags&theme=github_dark"/>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacristinags&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anacristinags&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anacristinags&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anacristinags&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="190px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anacristinags&theme=github_dark"/>
 </div>
 
 -----
@@ -173,14 +188,14 @@
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
-<tr>
+<!-- <tr>
 <td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/anacristinags/anacristinags/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
-</tr>
+</tr> -->
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
+<!-- <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
 <img src="https://img.shields.io/badge/Java-Expert-blue"/>
 <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
 <img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
@@ -202,14 +217,14 @@
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=anacristinags"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/anacristinags/anacristinags?logo=git"/>
-<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
+<!--<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
-<br />
+<br /> 
 <img alt="Followers" src="https://img.shields.io/github/followers/anacristinags?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/anacristinags?style=social"/>
 <a href="https://github.com/anacristinags/anacristinags/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
-</div>
+</div> -->
 
------
+<!-- ----- -->
 
 
