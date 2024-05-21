@@ -46,7 +46,7 @@
 <img alt="Forks" src="https://img.shields.io/github/forks/anacristinags/anacristinags?logo=git"/>
 <img alt="Followers" src="https://img.shields.io/github/followers/anacristinags?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/anacristinags?style=social"/>
-<a href="https://github.com/anacristinags/anacristinags/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<!-- <a href="https://github.com/anacristinags/anacristinags/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a> -->
 </div>
 
 -----
@@ -91,7 +91,9 @@
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/intellij.png?raw=true"/></a></code>
 &nbsp;
-<!-- <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/bash.png?raw=true"/></a></code>
+<br /> 
+<!-- Java JavaFX MySQL DBeaver Git NetBeans Intellij
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/bash.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/anacristinags/anacristinags/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
