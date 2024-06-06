@@ -61,9 +61,9 @@
 <p> 
 - :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluna</code> de Ciência da Computação.<br />
 <!-- - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/anacristinags/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/anacristinags/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br /> -->
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
+<!-- - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />  :basketball: &nbsp;-->
 - :soccer: &nbsp; Sou cruzeirense, torço para o <a href="https://www.omaiordeminas.com/" target="_blank">Cabuloso</a>🦊<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://www.cruzeiro.com.br/" target="_blank">Futebol</a>, academia e corrida.<br />
+- 🍃 Meus hobbies são <a href="https://www.leagueoflegends.com/pt-br/" target="_blank">League of Legends</a>, <a href="https://www.cruzeiro.com.br/" target="_blank">Futebol</a>, academia e corrida.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:anacristinasiqueira04@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 <!-- - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações. -->
