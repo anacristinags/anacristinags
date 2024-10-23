@@ -15,7 +15,7 @@
 </td>
 <!--<td><a href="https://wa.me/5531983152055" target="_blank"><img src="https://github.com/anacristinags/anacristinags/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td> -->
-<td><a href="https://www.instagram.com/ana.kgs/" target="_blank"><img src="https://github.com/anacristinags/anacristinags/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/anavsiq/" target="_blank"><img src="https://github.com/anacristinags/anacristinags/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/ana-cristina-g-97122b242/" target="_blank"><img src="https://github.com/anacristinags/anacristinags/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/anacristinags/anacristinags/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
